@@ -1,0 +1,401 @@
+marketplace_id,order_id_market,date,produit,quantite,statut_retour
+MKT-10001,774,2025-10-20,Écran 24 pouces,5,Livré
+MKT-10002,1472,2025-05-24,Clavier,1,En attente
+MKT-10003,1273,2024-11-14,Batterie externe,5,Livré
+MKT-10004,1539,2024-11-30,Souris,2,Livré
+MKT-10005,1287,2025-07-21,Clavier,2,Livré
+MKT-10006,1787,2025-04-10,Chargeur rapide,0,En attente
+MKT-10007,1851,2025-02-03,Écran 24 pouces,1,Livré
+MKT-10008,696,2025-02-14,Disque SSD,2,Livré
+MKT-10009,8,2024-11-16,Câble USB-C,1,Livré
+MKT-10010,1194,2025-01-06,Enceinte Bluetooth,1,Livré
+MKT-10011,1235,2024-11-18,Clavier,1,En attente
+MKT-10012,1719,2025-05-23,Câble USB-C,1,Livré
+MKT-10013,1532,2025-03-13,Batterie externe,3,Livré
+MKT-10014,1012,2025-05-05,Enceinte Bluetooth,2,En attente
+MKT-10015,1485,2024-12-17,Écran 24 pouces,1,Livré
+MKT-10016,997,2024-12-14,Enceinte Bluetooth,1,Livré
+MKT-10017,407,2025-03-11,Enceinte Bluetooth,5,Livré
+MKT-10018,1905,2025-01-30,Chargeur rapide,1,Livré
+MKT-10019,38,2025-09-05,Écran 24 pouces,1,En attente
+MKT-10020,474,2025-03-26,Disque SSD,2,
+MKT-10021,533,2024-12-02,Casque Bluetooth,2,Livré
+MKT-10022,1596,2025-04-21,Chargeur rapide,3,Livré
+MKT-10023,875,2024-12-07,Batterie externe,3,Livré
+MKT-10024,1277,2025-01-14,Souris,2,En attente
+MKT-10025,1922,2025-04-12,Webcam HD,10,Livré
+MKT-10026,1418,2025-05-01,Enceinte Bluetooth,1,En attente
+MKT-10027,1132,2024-12-07,Câble USB-C,1,Livré
+MKT-10028,5,2025-10-01,Disque SSD,2,Livré
+MKT-10029,1390,2025-10-05,Casque Bluetooth,2,En attente
+MKT-10030,304,2025-10-05,Webcam HD,5,Livré
+MKT-10031,842,2025-01-20,Batterie externe,3,Livré
+MKT-10032,484,2025-03-25,Enceinte Bluetooth,2,Livré
+MKT-10033,249,2025-09-16,Clavier,3,Livré
+MKT-10034,18,2025-03-22,Disque SSD,3,
+MKT-10035,68,2025-01-02,Écran 24 pouces,1,Livré
+MKT-10036,1220,2025-03-24,Câble USB-C,1,Livré
+MKT-10037,1296,2025-04-19,Batterie externe,1,Livré
+MKT-10038,1535,2025-07-16,Enceinte Bluetooth,3,Livré
+MKT-10039,849,2025-03-18,Chargeur rapide,0,En attente
+MKT-10040,352,2024-11-18,Disque SSD,2,Livré
+MKT-10041,1659,2025-05-04,Webcam HD,2,Retourné
+MKT-10042,725,2025-02-25,Casque Bluetooth,3,Livré
+MKT-10043,691,2025-02-26,Chargeur rapide,1,Livré
+MKT-10044,1042,2025-04-18,Disque SSD,2,Livré
+MKT-10045,960,2025-03-07,Souris,2,Livré
+MKT-10046,869,2025-02-26,Batterie externe,2,En attente
+MKT-10047,562,2025-09-06,Chargeur rapide,10,En attente
+MKT-10048,26,2025-01-09,Webcam HD,2,Livré
+MKT-10049,443,2025-09-18,Clavier,5,Retourné
+MKT-10050,586,2025-01-16,Écran 24 pouces,1,Retourné
+MKT-10051,1734,2025-03-30,Écran 24 pouces,1,En attente
+MKT-10052,1824,2025-09-16,Enceinte Bluetooth,1,Livré
+MKT-10053,933,2025-05-19,Écran 24 pouces,3,Retourné
+MKT-10054,604,2025-01-19,Disque SSD,2,
+MKT-10055,949,2024-12-10,Webcam HD,3,Livré
+MKT-10056,1625,2025-10-22,Câble USB-C,3,
+MKT-10057,104,2025-06-10,Enceinte Bluetooth,3,Livré
+MKT-10058,1969,2025-02-23,Batterie externe,3,
+MKT-10059,1892,2024-11-08,Enceinte Bluetooth,2,Retourné
+MKT-10060,975,2024-12-08,Écran 24 pouces,2,Retourné
+MKT-10061,1790,2025-01-23,Souris,3,Livré
+MKT-10062,143,2024-11-26,Clavier,2,En attente
+MKT-10063,978,2025-06-23,Câble USB-C,2,Livré
+MKT-10064,1724,2025-05-23,Câble USB-C,2,En attente
+MKT-10065,735,2025-03-05,Casque Bluetooth,2,En attente
+MKT-10066,1683,2025-04-17,Câble USB-C,3,Livré
+MKT-10067,659,2025-06-08,Enceinte Bluetooth,5,Livré
+MKT-10068,442,2025-05-15,Batterie externe,2,Retourné
+MKT-10069,1684,2025-05-29,Batterie externe,5,Livré
+MKT-10070,454,2024-12-12,Chargeur rapide,2,Livré
+MKT-10071,505,2025-07-27,Câble USB-C,5,Livré
+MKT-10072,515,2024-11-07,Webcam HD,1,
+MKT-10073,805,2025-07-06,Écran 24 pouces,1,Livré
+MKT-10074,797,2025-03-05,Enceinte Bluetooth,1,Livré
+MKT-10075,1372,2025-06-22,Chargeur rapide,2,En attente
+MKT-10076,1483,2025-10-26,Batterie externe,0,
+MKT-10077,1819,2025-03-02,Clavier,2,Livré
+MKT-10078,663,2025-09-23,Clavier,2,Livré
+MKT-10079,1124,2025-07-11,Clavier,2,Livré
+MKT-10080,755,2025-01-23,Enceinte Bluetooth,5,Livré
+MKT-10081,702,2024-11-05,Webcam HD,3,Livré
+MKT-10082,374,2025-10-24,Écran 24 pouces,1,Livré
+MKT-10083,1191,2025-09-10,Câble USB-C,2,Livré
+MKT-10084,1403,2024-11-26,Disque SSD,5,
+MKT-10085,1744,2025-08-08,Batterie externe,0,Livré
+MKT-10086,1531,2025-06-12,Webcam HD,1,En attente
+MKT-10087,379,2025-02-25,Webcam HD,5,Livré
+MKT-10088,81,2025-05-14,Casque Bluetooth,3,Livré
+MKT-10089,1773,2025-07-08,Disque SSD,3,Livré
+MKT-10090,76,2025-10-28,Clavier,2,Livré
+MKT-10091,1103,2025-01-29,Clavier,2,Livré
+MKT-10092,1997,2025-09-10,Disque SSD,5,Retourné
+MKT-10093,886,2025-05-02,Webcam HD,2,Livré
+MKT-10094,569,2024-11-27,Webcam HD,1,Livré
+MKT-10095,1500,2025-04-28,Câble USB-C,2,En attente
+MKT-10096,239,2024-12-01,Écran 24 pouces,5,Livré
+MKT-10097,101,2025-09-02,Webcam HD,1,Livré
+MKT-10098,338,2025-06-04,Souris,0,Retourné
+MKT-10099,729,2024-12-07,Câble USB-C,1,Livré
+MKT-10100,831,2025-10-06,Écran 24 pouces,2,En attente
+MKT-10101,1302,2025-10-11,Webcam HD,2,Retourné
+MKT-10102,999,2025-03-20,Écran 24 pouces,3,Livré
+MKT-10103,928,2025-09-01,Disque SSD,1,Livré
+MKT-10104,176,2025-01-23,Souris,2,Livré
+MKT-10105,514,2025-09-15,Clavier,10,En attente
+MKT-10106,53,2025-02-25,Webcam HD,1,Livré
+MKT-10107,59,2025-01-05,Enceinte Bluetooth,2,Livré
+MKT-10108,808,2025-08-01,Casque Bluetooth,1,Livré
+MKT-10109,483,2024-11-04,Clavier,2,Livré
+MKT-10110,459,2025-08-07,Souris,1,Livré
+MKT-10111,876,2025-04-10,Câble USB-C,1,Livré
+MKT-10112,169,2025-09-23,Câble USB-C,3,
+MKT-10113,944,2025-05-15,Batterie externe,1,En attente
+MKT-10114,143,2025-02-22,Câble USB-C,1,Livré
+MKT-10115,35,2025-06-08,Écran 24 pouces,2,Retourné
+MKT-10116,1389,2024-11-10,Clavier,3,Livré
+MKT-10117,1093,2025-01-07,Batterie externe,2,Livré
+MKT-10118,1189,2025-08-22,Clavier,5,Livré
+MKT-10119,230,2025-08-28,Disque SSD,0,En attente
+MKT-10120,862,2025-06-25,Câble USB-C,2,
+MKT-10121,522,2025-09-29,Batterie externe,2,Livré
+MKT-10122,1279,2024-10-31,Casque Bluetooth,1,Livré
+MKT-10123,1055,2025-07-05,Souris,3,Livré
+MKT-10124,1910,2025-10-06,Écran 24 pouces,3,
+MKT-10125,1733,2025-09-23,Chargeur rapide,3,Livré
+MKT-10126,1317,2025-10-10,Casque Bluetooth,5,Livré
+MKT-10127,601,2025-08-22,Écran 24 pouces,3,Livré
+MKT-10128,1095,2025-09-06,Souris,5,En attente
+MKT-10129,1509,2025-01-27,Chargeur rapide,2,Livré
+MKT-10130,1982,2025-03-18,Écran 24 pouces,2,En attente
+MKT-10131,894,2025-04-08,Enceinte Bluetooth,1,En attente
+MKT-10132,1145,2025-05-24,Enceinte Bluetooth,1,En attente
+MKT-10133,647,2025-06-12,Clavier,5,Retourné
+MKT-10134,1172,2025-04-19,Casque Bluetooth,1,Livré
+MKT-10135,1398,2025-08-15,Casque Bluetooth,3,Livré
+MKT-10136,1446,2025-04-30,Câble USB-C,2,
+MKT-10137,729,2024-12-10,Webcam HD,1,Livré
+MKT-10138,1859,2025-04-09,Chargeur rapide,1,Livré
+MKT-10139,1491,2025-04-13,Écran 24 pouces,2,Livré
+MKT-10140,1325,2025-05-24,Câble USB-C,2,
+MKT-10141,1642,2025-06-26,Écran 24 pouces,2,Livré
+MKT-10142,16,2025-10-12,Clavier,3,
+MKT-10143,1662,2025-09-23,Câble USB-C,1,Livré
+MKT-10144,887,2025-05-10,Clavier,10,Livré
+MKT-10145,1489,2024-10-29,Casque Bluetooth,2,Livré
+MKT-10146,1881,2025-09-29,Câble USB-C,1,Livré
+MKT-10147,1383,2025-01-27,Écran 24 pouces,2,Livré
+MKT-10148,1537,2025-07-19,Disque SSD,2,Livré
+MKT-10149,1770,2025-08-26,Enceinte Bluetooth,3,Retourné
+MKT-10150,1016,2025-09-18,Webcam HD,1,Livré
+MKT-10151,722,2025-03-07,Câble USB-C,2,En attente
+MKT-10152,1094,2025-02-07,Enceinte Bluetooth,2,Retourné
+MKT-10153,1562,2025-09-18,Clavier,5,Livré
+MKT-10154,240,2025-09-09,Écran 24 pouces,5,En attente
+MKT-10155,1706,2025-09-06,Batterie externe,3,Livré
+MKT-10156,530,2025-09-23,Enceinte Bluetooth,1,En attente
+MKT-10157,1208,2025-01-12,Clavier,3,Livré
+MKT-10158,1879,2024-11-30,Écran 24 pouces,5,Livré
+MKT-10159,579,2025-01-10,Casque Bluetooth,3,Livré
+MKT-10160,545,2024-11-23,Chargeur rapide,3,
+MKT-10161,467,2025-09-26,Enceinte Bluetooth,1,Livré
+MKT-10162,511,2025-06-24,Câble USB-C,1,
+MKT-10163,1989,2025-06-09,Câble USB-C,5,Livré
+MKT-10164,523,2025-06-15,Enceinte Bluetooth,0,Livré
+MKT-10165,1761,2025-07-28,Casque Bluetooth,2,Livré
+MKT-10166,1334,2025-10-08,Câble USB-C,2,Livré
+MKT-10167,457,2025-10-28,Câble USB-C,5,Livré
+MKT-10168,463,2024-12-12,Chargeur rapide,3,En attente
+MKT-10169,524,2025-09-20,Chargeur rapide,2,Livré
+MKT-10170,45,2025-03-06,Webcam HD,1,Livré
+MKT-10171,1433,2025-06-13,Écran 24 pouces,1,Livré
+MKT-10172,1079,2025-04-08,Disque SSD,3,En attente
+MKT-10173,333,2025-03-17,Disque SSD,1,Livré
+MKT-10174,679,2025-08-05,Clavier,1,Livré
+MKT-10175,1024,2024-11-23,Clavier,2,Livré
+MKT-10176,801,2025-10-16,Webcam HD,1,En attente
+MKT-10177,709,2025-09-30,Casque Bluetooth,1,
+MKT-10178,1112,2024-12-01,Câble USB-C,2,Livré
+MKT-10179,305,2025-03-24,Disque SSD,1,Retourné
+MKT-10180,1195,2025-06-21,Disque SSD,3,Retourné
+MKT-10181,1077,2025-10-11,Disque SSD,2,En attente
+MKT-10182,1126,2025-06-25,Clavier,2,Livré
+MKT-10183,674,2025-02-27,Clavier,1,Livré
+MKT-10184,315,2025-02-06,Souris,2,En attente
+MKT-10185,1260,2025-03-19,Disque SSD,3,En attente
+MKT-10186,692,2025-01-19,Enceinte Bluetooth,3,Livré
+MKT-10187,1968,2025-05-08,Câble USB-C,1,En attente
+MKT-10188,1136,2025-03-23,Souris,2,En attente
+MKT-10189,269,2025-06-16,Enceinte Bluetooth,3,Livré
+MKT-10190,822,2025-08-23,Webcam HD,0,Livré
+MKT-10191,1058,2025-09-20,Chargeur rapide,2,Livré
+MKT-10192,501,2025-07-23,Écran 24 pouces,0,Livré
+MKT-10193,743,2025-05-26,Chargeur rapide,2,En attente
+MKT-10194,506,2024-11-19,Chargeur rapide,1,Livré
+MKT-10195,1062,2025-08-22,Casque Bluetooth,1,Retourné
+MKT-10196,379,2025-10-11,Enceinte Bluetooth,1,Livré
+MKT-10197,1756,2025-06-29,Enceinte Bluetooth,2,Livré
+MKT-10198,430,2025-02-06,Enceinte Bluetooth,5,Livré
+MKT-10199,1241,2025-07-20,Disque SSD,0,
+MKT-10200,991,2025-05-09,Souris,1,Livré
+MKT-10201,585,2025-05-10,Webcam HD,1,Livré
+MKT-10202,458,2025-05-22,Webcam HD,2,Livré
+MKT-10203,1704,2025-08-27,Webcam HD,0,En attente
+MKT-10204,1949,2025-07-10,Casque Bluetooth,5,En attente
+MKT-10205,917,2024-12-17,Chargeur rapide,1,Livré
+MKT-10206,1901,2025-10-25,Écran 24 pouces,1,En attente
+MKT-10207,1578,2025-08-16,Enceinte Bluetooth,1,Livré
+MKT-10208,448,2025-10-12,Casque Bluetooth,1,Livré
+MKT-10209,69,2025-02-12,Chargeur rapide,1,Livré
+MKT-10210,1629,2025-05-14,Disque SSD,1,Retourné
+MKT-10211,1893,2024-11-26,Webcam HD,1,Livré
+MKT-10212,447,2025-08-14,Écran 24 pouces,3,En attente
+MKT-10213,1435,2025-06-11,Clavier,2,Livré
+MKT-10214,1315,2024-12-19,Webcam HD,2,Livré
+MKT-10215,375,2025-04-19,Disque SSD,2,Livré
+MKT-10216,1680,2025-06-22,Écran 24 pouces,0,
+MKT-10217,263,2025-09-18,Clavier,5,Livré
+MKT-10218,875,2025-05-02,Casque Bluetooth,1,
+MKT-10219,378,2025-10-20,Câble USB-C,3,Livré
+MKT-10220,111,2025-06-23,Câble USB-C,5,Livré
+MKT-10221,854,2025-02-06,Câble USB-C,3,
+MKT-10222,38,2025-10-12,Enceinte Bluetooth,10,Retourné
+MKT-10223,1978,2025-07-05,Écran 24 pouces,2,
+MKT-10224,1437,2024-11-02,Écran 24 pouces,2,En attente
+MKT-10225,1329,2024-11-11,Disque SSD,1,En attente
+MKT-10226,380,2025-09-28,Chargeur rapide,3,Retourné
+MKT-10227,1195,2025-05-07,Webcam HD,2,Livré
+MKT-10228,402,2025-09-17,Batterie externe,1,Retourné
+MKT-10229,1393,2024-12-03,Câble USB-C,2,
+MKT-10230,246,2025-02-23,Câble USB-C,3,Retourné
+MKT-10231,1034,2025-09-25,Disque SSD,3,Livré
+MKT-10232,1901,2024-11-26,Chargeur rapide,5,En attente
+MKT-10233,465,2025-10-10,Enceinte Bluetooth,2,Livré
+MKT-10234,610,2025-04-26,Webcam HD,10,Livré
+MKT-10235,1411,2025-06-27,Enceinte Bluetooth,1,Retourné
+MKT-10236,1226,2024-11-26,Webcam HD,2,
+MKT-10237,1023,2025-05-26,Chargeur rapide,3,Livré
+MKT-10238,871,2025-07-16,Enceinte Bluetooth,1,
+MKT-10239,200,2025-07-19,Clavier,2,En attente
+MKT-10240,1931,2025-02-19,Écran 24 pouces,2,
+MKT-10241,699,2025-09-19,Écran 24 pouces,2,Livré
+MKT-10242,788,2025-07-02,Écran 24 pouces,3,Livré
+MKT-10243,454,2025-04-08,Écran 24 pouces,5,Livré
+MKT-10244,333,2025-10-15,Disque SSD,2,Livré
+MKT-10245,1062,2025-05-05,Clavier,3,En attente
+MKT-10246,213,2025-09-27,Webcam HD,5,Livré
+MKT-10247,1482,2025-07-15,Chargeur rapide,3,Livré
+MKT-10248,973,2025-01-25,Clavier,1,Livré
+MKT-10249,1263,2025-02-16,Chargeur rapide,2,Livré
+MKT-10250,463,2024-12-25,Batterie externe,3,En attente
+MKT-10251,882,2025-01-27,Câble USB-C,10,En attente
+MKT-10252,550,2025-05-28,Webcam HD,3,Livré
+MKT-10253,1674,2025-07-11,Disque SSD,1,Retourné
+MKT-10254,497,2025-09-01,Enceinte Bluetooth,2,Livré
+MKT-10255,123,2025-07-23,Batterie externe,1,Livré
+MKT-10256,1159,2025-05-16,Disque SSD,2,Livré
+MKT-10257,1074,2025-06-18,Clavier,10,En attente
+MKT-10258,21,2024-12-13,Souris,3,Livré
+MKT-10259,806,2025-04-01,Chargeur rapide,5,Livré
+MKT-10260,1944,2024-11-16,Chargeur rapide,5,Livré
+MKT-10261,1399,2025-08-28,Disque SSD,1,Retourné
+MKT-10262,1030,2025-01-25,Batterie externe,1,Livré
+MKT-10263,356,2025-03-22,Enceinte Bluetooth,2,Livré
+MKT-10264,828,2025-05-09,Webcam HD,3,
+MKT-10265,752,2025-05-08,Clavier,10,En attente
+MKT-10266,214,2025-08-20,Batterie externe,0,
+MKT-10267,1904,2025-10-26,Écran 24 pouces,0,Livré
+MKT-10268,1910,2024-12-22,Souris,1,Livré
+MKT-10269,1913,2025-02-01,Câble USB-C,3,En attente
+MKT-10270,37,2025-07-19,Webcam HD,2,Livré
+MKT-10271,1595,2025-02-15,Souris,2,Livré
+MKT-10272,1268,2025-10-24,Chargeur rapide,3,Livré
+MKT-10273,669,2025-05-01,Batterie externe,2,Livré
+MKT-10274,111,2025-08-23,Casque Bluetooth,10,Livré
+MKT-10275,1123,2025-06-17,Chargeur rapide,3,En attente
+MKT-10276,1990,2024-11-04,Batterie externe,0,Livré
+MKT-10277,1092,2025-08-24,Casque Bluetooth,5,
+MKT-10278,101,2024-12-09,Webcam HD,1,
+MKT-10279,1819,2024-12-24,Clavier,2,Retourné
+MKT-10280,10,2025-10-13,Disque SSD,2,En attente
+MKT-10281,1002,2025-09-22,Batterie externe,1,Livré
+MKT-10282,1496,2025-01-09,Souris,2,Livré
+MKT-10283,1522,2025-05-15,Écran 24 pouces,3,Livré
+MKT-10284,1586,2025-06-01,Batterie externe,2,Livré
+MKT-10285,1194,2024-10-31,Batterie externe,2,Livré
+MKT-10286,1104,2025-04-13,Disque SSD,3,Retourné
+MKT-10287,1053,2025-07-18,Câble USB-C,1,Retourné
+MKT-10288,890,2025-09-02,Chargeur rapide,2,Livré
+MKT-10289,1169,2025-10-28,Casque Bluetooth,1,Livré
+MKT-10290,1783,2025-10-21,Clavier,1,Retourné
+MKT-10291,1151,2025-09-29,Disque SSD,0,Livré
+MKT-10292,990,2025-03-02,Disque SSD,1,Livré
+MKT-10293,1704,2025-04-09,Chargeur rapide,2,En attente
+MKT-10294,1079,2025-01-28,Souris,3,En attente
+MKT-10295,1494,2024-11-17,Chargeur rapide,2,Livré
+MKT-10296,1369,2025-01-15,Disque SSD,3,En attente
+MKT-10297,8,2024-12-06,Casque Bluetooth,1,
+MKT-10298,1645,2025-05-08,Écran 24 pouces,1,Livré
+MKT-10299,300,2024-12-20,Batterie externe,1,Livré
+MKT-10300,1782,2025-10-19,Souris,2,Livré
+MKT-10301,892,2024-12-24,Clavier,0,Livré
+MKT-10302,44,2025-10-10,Câble USB-C,2,Livré
+MKT-10303,693,2025-03-20,Disque SSD,5,
+MKT-10304,811,2025-10-06,Clavier,2,En attente
+MKT-10305,1081,2025-06-21,Batterie externe,1,Livré
+MKT-10306,992,2024-11-17,Câble USB-C,3,Livré
+MKT-10307,1894,2025-08-31,Clavier,1,Retourné
+MKT-10308,68,2025-04-01,Clavier,1,Livré
+MKT-10309,490,2025-06-07,Casque Bluetooth,1,Livré
+MKT-10310,115,2025-09-23,Câble USB-C,2,
+MKT-10311,1891,2025-02-06,Enceinte Bluetooth,1,
+MKT-10312,1548,2024-12-04,Câble USB-C,3,Livré
+MKT-10313,1689,2025-04-26,Écran 24 pouces,2,Livré
+MKT-10314,344,2025-04-22,Enceinte Bluetooth,1,Livré
+MKT-10315,1950,2025-05-07,Clavier,1,Livré
+MKT-10316,1232,2025-10-09,Enceinte Bluetooth,3,
+MKT-10317,1840,2025-01-17,Chargeur rapide,5,Livré
+MKT-10318,140,2025-10-22,Écran 24 pouces,1,Livré
+MKT-10319,184,2024-12-30,Casque Bluetooth,3,En attente
+MKT-10320,727,2024-11-25,Clavier,3,Livré
+MKT-10321,662,2024-11-14,Chargeur rapide,2,En attente
+MKT-10322,1014,2025-06-13,Câble USB-C,1,Livré
+MKT-10323,1722,2025-01-20,Clavier,1,Livré
+MKT-10324,1931,2025-05-22,Clavier,10,Livré
+MKT-10325,54,2025-04-22,Webcam HD,2,Livré
+MKT-10326,1293,2025-03-05,Clavier,10,Livré
+MKT-10327,207,2025-09-10,Clavier,1,En attente
+MKT-10328,346,2025-08-04,Clavier,3,Livré
+MKT-10329,1639,2025-08-31,Chargeur rapide,1,Retourné
+MKT-10330,200,2024-11-14,Chargeur rapide,1,Livré
+MKT-10331,188,2024-11-22,Disque SSD,1,Livré
+MKT-10332,502,2025-01-02,Câble USB-C,3,En attente
+MKT-10333,1581,2025-02-18,Casque Bluetooth,1,
+MKT-10334,1899,2025-07-02,Disque SSD,1,Retourné
+MKT-10335,741,2025-09-03,Clavier,1,Livré
+MKT-10336,838,2025-07-07,Batterie externe,1,Livré
+MKT-10337,1388,2024-12-01,Enceinte Bluetooth,2,Livré
+MKT-10338,405,2025-08-28,Câble USB-C,5,En attente
+MKT-10339,1126,2025-10-01,Disque SSD,2,Livré
+MKT-10340,744,2024-12-08,Chargeur rapide,1,En attente
+MKT-10341,1334,2025-06-25,Souris,1,
+MKT-10342,557,2024-11-24,Écran 24 pouces,1,Livré
+MKT-10343,182,2025-07-06,Souris,1,
+MKT-10344,152,2025-05-06,Chargeur rapide,3,Livré
+MKT-10345,298,2025-01-03,Casque Bluetooth,2,Livré
+MKT-10346,1421,2025-01-20,Disque SSD,3,Retourné
+MKT-10347,224,2025-03-11,Casque Bluetooth,5,Livré
+MKT-10348,1640,2025-01-06,Disque SSD,2,Retourné
+MKT-10349,1819,2025-06-18,Souris,2,Retourné
+MKT-10350,525,2025-07-17,Enceinte Bluetooth,3,
+MKT-10351,491,2024-11-28,Souris,5,En attente
+MKT-10352,319,2025-05-05,Enceinte Bluetooth,2,Livré
+MKT-10353,1593,2025-05-19,Webcam HD,0,Retourné
+MKT-10354,668,2025-03-01,Clavier,2,Livré
+MKT-10355,42,2025-02-16,Clavier,1,En attente
+MKT-10356,880,2025-09-14,Câble USB-C,2,Livré
+MKT-10357,1487,2024-10-29,Disque SSD,2,Livré
+MKT-10358,1897,2025-09-07,Casque Bluetooth,5,Livré
+MKT-10359,1522,2025-03-19,Clavier,2,
+MKT-10360,1615,2025-07-14,Webcam HD,5,Livré
+MKT-10361,896,2025-08-28,Clavier,1,Livré
+MKT-10362,1417,2025-03-27,Clavier,2,Livré
+MKT-10363,452,2024-11-18,Clavier,3,Livré
+MKT-10364,400,2025-07-30,Chargeur rapide,0,Livré
+MKT-10365,1874,2025-07-05,Câble USB-C,2,Retourné
+MKT-10366,252,2024-11-23,Disque SSD,2,Livré
+MKT-10367,342,2025-04-23,Écran 24 pouces,0,En attente
+MKT-10368,1198,2025-01-01,Enceinte Bluetooth,1,Livré
+MKT-10369,892,2025-10-09,Souris,1,Livré
+MKT-10370,1153,2025-10-26,Clavier,3,En attente
+MKT-10371,554,2025-10-12,Clavier,1,Livré
+MKT-10372,61,2025-10-10,Câble USB-C,2,En attente
+MKT-10373,1042,2025-04-11,Clavier,2,Livré
+MKT-10374,140,2025-06-04,Câble USB-C,1,
+MKT-10375,929,2024-11-09,Câble USB-C,5,Livré
+MKT-10376,601,2025-08-26,Clavier,2,Livré
+MKT-10377,270,2025-09-09,Clavier,2,Livré
+MKT-10378,57,2025-02-19,Clavier,5,Livré
+MKT-10379,1193,2025-01-19,Clavier,3,Livré
+MKT-10380,1613,2025-03-03,Clavier,3,Livré
+MKT-10381,449,2025-07-07,Webcam HD,1,
+MKT-10382,17,2025-05-13,Clavier,1,Livré
+MKT-10383,452,2024-11-29,Casque Bluetooth,2,Livré
+MKT-10384,1284,2024-12-14,Chargeur rapide,3,Livré
+MKT-10385,891,2025-09-08,Disque SSD,1,Livré
+MKT-10386,1657,2025-07-29,Enceinte Bluetooth,2,Retourné
+MKT-10387,1873,2025-03-02,Webcam HD,1,Livré
+MKT-10388,180,2025-09-01,Souris,2,Livré
+MKT-10389,687,2024-11-27,Webcam HD,2,Livré
+MKT-10390,1663,2025-03-24,Écran 24 pouces,5,Livré
+MKT-10391,87,2025-07-08,Batterie externe,3,Livré
+MKT-10392,1018,2025-03-19,Disque SSD,5,
+MKT-10393,962,2025-01-15,Webcam HD,2,Livré
+MKT-10394,1684,2024-12-25,Enceinte Bluetooth,1,Livré
+MKT-10395,675,2025-09-23,Clavier,5,
+MKT-10396,1500,2024-11-07,Disque SSD,3,
+MKT-10397,1266,2025-05-28,Chargeur rapide,3,Retourné
+MKT-10398,523,2025-01-11,Chargeur rapide,2,Livré
+MKT-10399,1900,2025-08-17,Clavier,2,Livré
+MKT-10400,106,2025-04-15,Batterie externe,1,En attente
