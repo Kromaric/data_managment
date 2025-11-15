@@ -5,7 +5,7 @@ TP_Data_M/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Python
+# Python (fichiers compilés, optimisés et extensions windows)
 __pycache__/
 *.py[cod]
 *$py.class
@@ -32,7 +32,7 @@ ENV/
 Thumbs.db
 
 # Données (pour ne pas versionner les gros fichiers de données)
-*.csv
+# on peut stocker les csv
 *.xlsx
 *.json
 data/
