@@ -1,6 +1,7 @@
 # data_managment
 
 ## Structure du repository
+```
 data_management/
 ├── data/
 │   ├── raw/              # Données brutes, non modifiées
@@ -9,6 +10,7 @@ data_management/
 ├── requirements.txt      # Pour travailler sur les mêmes versions de librairies
 ├── .gitignore
 └── README.md
+```
 
 ## Installation
 
