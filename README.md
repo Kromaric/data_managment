@@ -12,6 +12,13 @@ data_management/
 └── README.md
 ```
 
+## Statut de l'analyse des données
+- [x] Catalogue_Produit.csv
+- [x] Client_Master.csv
+- [x] Marketplace_Import_Mars2025.csv
+- 🔍 Ventes_Q1_2025.csv
+- [ ] Croiser les données entre les 4 tables pour identifier les problèmes de connexion
+
 ## Installation
 
 1. Cloner le dépôt
