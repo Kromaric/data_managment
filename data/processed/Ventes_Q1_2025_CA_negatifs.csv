@@ -1,0 +1,223 @@
+order_id,date,client_id,produit,categorie,prix_unitaire,quantite,ville,canal,chiffre_affaires
+2,2025-01-26,261,Webcam HD,Informatique,146.42,-1,,Web,-146.42
+8,2025-03-04,461,Webcam HD,Informatique,-15.16,1,Blin-la-Forêt,Web,-15.16
+19,2024-12-27,496,Webcam HD,Informatique,-16.44,3,Dupuy-la-Forêt,Web,-49.32
+25,2025-09-08,213,Écran 24 pouces,Informatique,99.16,-1,,Boutique,-99.16
+45,2025-09-13,182,Écran 24 pouces,Informatique,-16.71,1,Clémentnec,Web,-16.71
+49,2024-12-31,297,Enceinte Bluetooth,Informatique,-93.23,3,Lamy,Web,-279.69
+54,2025-01-29,31,Enceinte Bluetooth,Informatqiue,-24.8,2,Salmon,Boutique,-49.6
+60,2025-06-19,357,Clavier,Informatique,-67.01,1,Valette,Web,-67.01
+76,2024-12-22,334,Disque SSD,Informatique,-161.49,1,Millet,Web,-161.49
+95,2025-10-07,354,Webcam HD,Audio,-17.12,1,Regnier-sur-Nicolas,Web,-17.12
+98,2025-09-13,120,Souris,Informatique,-125.15,2,Meunier,Web,-250.3
+105,2024-12-08,26,Câble USB-C,Audio,102.7,-1,Aubry-sur-Rivière,Web,-102.7
+140,2025-08-11,219,Clavier,Informatqiue,-67.86,3,,Web,-203.58
+161,2025-05-08,422,Enceinte Bluetooth,Informatique,-109.16,2,Boucher,Marketplace,-218.32
+187,2025-04-21,210,Enceinte Bluetooth,Informatique,-146.84,3,Carlier-la-Forêt,Boutique,-440.52
+197,2024-11-15,240,Clavier,Informatique,-80.24,2,Saint XavierVille,Web,-160.48
+210,2025-09-22,347,Casque Bluetooth,Informatique,163.15,-1,Regnier-sur-Nicolas,Web,-163.15
+214,2025-03-31,67,Disque SSD,Accessoire,-169.78,10,,Web,-1697.8
+247,2025-05-26,330,Disque SSD,Audio,-177.15,2,Lamy,Web,-354.3
+249,2025-09-11,296,Clavier,Informatique,-84.31,1,,Web,-84.31
+267,2024-11-06,455,Souris,Informatique,90.89,-1,Colinnec,Web,-90.89
+276,2025-05-16,366,Souris,Audio,-125.64,5,Chrétien-sur-Legros,Web,-628.2
+287,2025-06-02,246,Clavier,Audio,-20.18,2,,Marketplace,-40.36
+299,2025-06-03,43,Webcam HD,Informatique,-16.59,3,Grosdan,Web,-49.77
+302,2025-03-05,273,Enceinte Bluetooth,Informatique,-157.23,1,Louis-sur-Fernandes,Web,-157.23
+348,2025-05-12,411,Enceinte Bluetooth,Audio,-26.5,5,Adam,Boutique,-132.5
+358,2025-04-11,449,Souris,Accessoire,90.29,-1,Sainte Isabelle,Boutique,-90.29
+360,2025-08-13,431,Disque SSD,Informatique,-160.45,2,Blanchet,Web,-320.9
+366,2025-05-27,432,Clavier,Informatique,-18.88,2,,Boutique,-37.76
+369,2025-01-04,337,Clavier,Informatqiue,-82.3,1,Guilbert,Web,-82.3
+377,2025-07-14,200,Webcam HD,Audio,28.29,-1,Diallodan,Web,-28.29
+398,2024-11-24,220,Webcam HD,Informatqiue,-18.81,2,,Web,-37.62
+401,2025-03-07,192,Écran 24 pouces,Accessoire,-20.58,3,Poirier,Web,-61.74
+405,2025-06-04,58,Batterie externe,Informatqiue,123.38,-1,Saint HenrietteVille,Web,-123.38
+410,2025-04-11,381,Disque SSD,Informatique,-172.28,2,Aubry-sur-Rivière,Marketplace,-344.56
+417,2025-04-30,379,Disque SSD,Informatique,-165.93,2,,Web,-331.86
+427,2025-10-16,93,Écran 24 pouces,Informatique,97.8,-1,,Web,-97.8
+439,2025-04-28,451,Enceinte Bluetooth,Audio,-92.82,2,Gilbertnec,Web,-185.64
+441,2025-08-15,51,Enceinte Bluetooth,Informatique,-149.54,3,Paris,Web,-448.62
+451,2025-07-01,2,Casque Bluetooth,Accessoire,112.78,-1,Saint Denis,Web,-112.78
+466,2025-06-24,81,Enceinte Bluetooth,Informatique,-26.3,3,Saint Hugues-la-Forêt,Marketplace,-78.9
+469,2025-02-14,99,Enceinte Bluetooth,Informatique,-96.73,1,Michel-sur-Mer,Marketplace,-96.73
+479,2025-05-25,360,Webcam HD,Informatqiue,38.96,-1,Sainte MargaudVille,Web,-38.96
+492,2025-07-04,260,Souris,Informatique,-118.58,2,,Marketplace,-237.16
+505,2025-06-02,491,Écran 24 pouces,Informatique,-17.25,2,Sainte Audrey,Web,-34.5
+507,2025-03-18,160,Enceinte Bluetooth,Informatqiue,-181.73,3,Salmon,Web,-545.19
+513,2024-11-21,12,Enceinte Bluetooth,Informatqiue,-136.8,3,Sanchez,Boutique,-410.4
+514,2025-06-26,120,Câble USB-C,Accessoire,22.2,-1,Aubry-sur-Rivière,Boutique,-22.2
+519,2025-05-01,485,Clavier,Informatique,-83.38,1,Saint Aimé-sur-Mer,Web,-83.38
+523,2025-06-18,424,Enceinte Bluetooth,Informatique,-177.28,2,Hamel-sur-Cohen,Boutique,-354.56
+524,2025-08-04,438,Disque SSD,Audio,-182.98,2,Meyer,Web,-365.96
+530,2025-07-23,194,Enceinte Bluetooth,Informatqiue,-198.95,2,Chauvetdan,Boutique,-397.9
+545,2025-09-10,64,Enceinte Bluetooth,Informatqiue,-26.82,1,Vaillantdan,Boutique,-26.82
+552,2025-09-19,113,Enceinte Bluetooth,Informatique,-182.01,3,Dupont,Boutique,-546.03
+558,2025-06-27,293,Enceinte Bluetooth,Informatique,-191.5,2,Diaz,Web,-383.0
+566,2025-04-29,123,Webcam HD,Informatique,-18.68,1,Saint Robert,Boutique,-18.68
+569,2025-06-03,21,Souris,Informatique,-130.56,1,Saint Daniel-la-Forêt,Marketplace,-130.56
+586,2024-11-22,500,Enceinte Bluetooth,Informatqiue,-23.59,2,Marty-les-Bains,Web,-47.18
+614,2025-05-25,257,Enceinte Bluetooth,Informatique,-27.18,10,Bousquet,Boutique,-271.8
+618,2025-05-02,228,Enceinte Bluetooth,Informatique,-227.75,3,Pariss,Web,-683.25
+626,2025-08-29,240,Webcam HD,Informatqiue,-16.31,2,,Web,-32.62
+627,2025-08-20,438,Enceinte Bluetooth,Informatique,-29.0,2,Le Gall,Marketplace,-58.0
+630,2025-06-01,328,Souris,Informatqiue,-139.39,3,,Web,-418.17
+635,2025-01-13,83,Écran 24 pouces,Informatique,-21.91,3,Marchal-sur-Duhamel,Web,-65.73
+640,2025-01-23,300,Webcam HD,Informatqiue,139.24,-1,Bouvetboeuf,Boutique,-139.24
+651,2025-03-20,239,Enceinte Bluetooth,Accessoire,-170.39,1,Guibert,Web,-170.39
+656,2025-02-10,492,Enceinte Bluetooth,Audio,-159.6,1,Maury,Web,-159.6
+666,2025-01-04,355,Enceinte Bluetooth,Informatique,-177.75,10,Lagarde,Web,-1777.5
+675,2024-12-25,46,Enceinte Bluetooth,Informatique,-196.17,10,LeclercBourg,Web,-1961.7
+679,2025-08-04,300,Écran 24 pouces,Accessoire,-16.22,1,,Web,-16.22
+697,2025-04-30,187,Câble USB-C,Audio,41.8,-1,Alves-sur-Besnard,Web,-41.8
+699,2025-01-09,32,Clavier,Audio,-19.11,2,Maillard-sur-Collin,Marketplace,-38.22
+700,2025-02-02,464,Webcam HD,Audio,-19.6,2,Normand-la-Forêt,Marketplace,-39.2
+709,2025-02-28,82,Enceinte Bluetooth,Informatqiue,-103.43,5,Meunier,Web,-517.15
+713,2025-06-16,288,Enceinte Bluetooth,Audio,-85.02,1,Pichon-sur-Mer,Web,-85.02
+717,2025-08-29,370,Enceinte Bluetooth,Informatique,-110.09,1,Klein,Web,-110.09
+728,2025-02-04,23,Clavier,Audio,-76.85,1,Lebreton,Boutique,-76.85
+737,2025-02-22,498,Clavier,Informatique,-15.81,2,,Boutique,-31.62
+738,2025-06-25,389,Clavier,Audio,-86.16,1,Sainte Élodie,Boutique,-86.16
+740,2025-07-24,421,Enceinte Bluetooth,Informatqiue,-174.58,10,Monnier,Web,-1745.8
+768,2025-09-14,40,Batterie externe,Informatique,178.64,-1,Sainte Thibaultdan,Web,-178.64
+773,2025-05-29,39,Enceinte Bluetooth,Informatique,-207.56,2,Ruiz,Web,-415.12
+802,2025-09-02,55,Écran 24 pouces,Audio,90.41,-1,Hoarau-sur-Mer,Web,-90.41
+806,2025-06-07,445,Clavier,Audio,-70.68,5,Hamel-sur-Cohen,Boutique,-353.4
+810,2025-10-08,63,Écran 24 pouces,Audio,-16.24,10,,Marketplace,-162.4
+816,2025-05-05,388,Disque SSD,Audio,-190.49,10,Da Silva-les-Bains,Web,-1904.9
+823,2025-05-20,164,Chargeur rapide,Audio,52.34,-1,,Boutique,-52.34
+827,2025-04-20,418,Clavier,Accessoire,-21.27,2,Launay-sur-Faivre,Boutique,-42.54
+829,2025-05-19,309,Câble USB-C,Informatique,120.12,-1,Henry,Boutique,-120.12
+830,2025-06-28,298,Souris,Informatique,40.61,-1,Guilbert,Boutique,-40.61
+834,2025-10-22,205,Clavier,Audio,143.65,-1,Perez,Boutique,-143.65
+869,2025-08-16,371,Disque SSD,Accessoire,-184.61,2,Lopezdan,Web,-369.22
+882,2025-02-17,137,Enceinte Bluetooth,Informatique,-172.46,1,Sainte Roland,Web,-172.46
+902,2025-10-24,175,Écran 24 pouces,Accessoire,-16.24,2,Sainte Thierrydan,Boutique,-32.48
+905,2024-11-09,488,Enceinte Bluetooth,Informatique,-195.36,2,Saint XavierVille,Web,-390.72
+921,2025-04-27,429,Webcam HD,Audio,-15.94,1,Bègue,Web,-15.94
+937,2025-06-30,383,Disque SSD,Informatique,-196.12,2,Tessier,Marketplace,-392.24
+940,2025-07-23,102,Disque SSD,Informatique,-179.69,1,De Sousa,Web,-179.69
+941,2025-08-19,339,Disque SSD,Informatique,-173.06,2,Louis-sur-Fernandes,Web,-346.12
+949,2025-01-31,268,Clavier,Audio,-64.81,2,MaceBourg,Web,-129.62
+951,2024-12-28,333,Enceinte Bluetooth,Informatique,-27.08,1,Fabre,Web,-27.08
+957,2025-07-06,339,Souris,Informatique,-133.66,1,Michel,Marketplace,-133.66
+962,2025-10-14,4,Enceinte Bluetooth,Informatique,-142.54,5,Picard-sur-Laine,Web,-712.7
+982,2025-01-27,326,Disque SSD,Informatique,-189.97,2,Sainte Henri,Web,-379.94
+985,2025-01-23,85,Clavier,Accessoire,-89.84,2,Bernard,Web,-179.68
+994,2024-11-19,380,Webcam HD,Informatique,-14.63,1,Saint Patricia,Boutique,-14.63
+1005,2025-01-11,80,Chargeur rapide,Audio,68.14,-1,Chauvindan,Marketplace,-68.14
+1051,2025-02-25,169,Clavier,Informatique,-19.85,2,Saint Paulettedan,Web,-39.7
+1058,2025-07-08,138,Disque SSD,Accessoire,-189.92,1,,Web,-189.92
+1071,2025-03-20,281,Disque SSD,Informatique,-208.81,10,,Marketplace,-2088.1
+1076,2025-01-31,411,Enceinte Bluetooth,Informatique,-31.9,10,Sainte Pauline,Web,-319.0
+1077,2025-01-18,54,Clavier,Informatique,-69.61,2,Saint Richard,Boutique,-139.22
+1088,2025-02-15,447,Disque SSD,Informatique,-157.4,5,Sainte Henri,Web,-787.0
+1089,2025-04-26,79,Souris,Informatique,-139.83,10,Girard,Web,-1398.3
+1109,2024-11-05,9,Écran 24 pouces,Informatique,-19.02,2,Le Gall,Web,-38.04
+1118,2025-02-19,101,Enceinte Bluetooth,Informatique,-92.43,1,JulienBourg,Web,-92.43
+1135,2025-02-08,216,Webcam HD,Informatique,129.59,-1,Blanchet,Web,-129.59
+1139,2025-09-01,476,Enceinte Bluetooth,Audio,-32.0,2,Marindan,Web,-64.0
+1140,2025-07-11,93,Souris,Audio,95.93,-1,Bègue,Web,-95.93
+1149,2024-11-03,469,Webcam HD,Informatique,41.49,-1,Saint Gilles,Web,-41.49
+1155,2025-08-27,248,Câble USB-C,Informatique,76.34,-1,Pariss,Boutique,-76.34
+1163,2025-06-01,397,Écran 24 pouces,Audio,109.47,-1,,Web,-109.47
+1168,2024-10-29,4,Enceinte Bluetooth,Informatqiue,-103.78,1,Saint Hugues-la-Forêt,Web,-103.78
+1174,2025-04-13,326,Écran 24 pouces,Informatique,-20.85,10,Saint Lucie,Web,-208.5
+1184,2024-12-17,327,Enceinte Bluetooth,Informatique,-148.53,2,Schneidernec,Boutique,-297.06
+1185,2024-11-20,398,Disque SSD,Informatique,-182.28,1,Sainte Bertrand,Web,-182.28
+1190,2025-02-16,281,Clavier,Informatique,-18.75,1,Guyon,Boutique,-18.75
+1200,2025-08-25,135,Enceinte Bluetooth,Audio,-82.39,5,Saint ConstanceVille,Boutique,-411.95
+1205,2024-11-02,199,Enceinte Bluetooth,Informatqiue,-210.07,5,GermainVille,Boutique,-1050.35
+1220,2025-05-24,327,Enceinte Bluetooth,Informatique,-33.56,10,Guillou,Boutique,-335.6
+1223,2025-05-09,127,Enceinte Bluetooth,Audio,-217.85,3,Garcia,Boutique,-653.55
+1230,2025-01-06,17,Clavier,Accessoire,-18.69,2,Chrétien-sur-Legros,Boutique,-37.38
+1253,2025-07-19,228,Disque SSD,Informatique,-150.29,2,Salmon,Web,-300.58
+1256,2025-07-19,181,Chargeur rapide,Informatique,137.88,-1,Delattre,Marketplace,-137.88
+1258,2025-01-26,479,Chargeur rapide,Audio,71.14,-1,Sainte Adèle,Web,-71.14
+1272,2025-08-07,328,Enceinte Bluetooth,Accessoire,-33.32,3,Besnarddan,Web,-99.96
+1278,2025-05-06,319,Enceinte Bluetooth,Informatique,-108.09,3,Simon,Web,-324.27
+1280,2025-07-11,52,Enceinte Bluetooth,Informatique,-32.41,2,Monnier,Web,-64.82
+1282,2024-12-08,178,Souris,Informatique,-116.86,2,,Boutique,-233.72
+1287,2025-04-25,345,Souris,Informatique,-123.31,1,Vidal,Boutique,-123.31
+1288,2024-12-13,15,Écran 24 pouces,Informatique,136.09,-1,Le Roux,Web,-136.09
+1318,2024-11-03,281,Enceinte Bluetooth,Audio,-176.61,5,Adam,Web,-883.05
+1341,2025-07-25,287,Webcam HD,Informatique,163.92,-1,Maurice,Web,-163.92
+1343,2024-12-06,285,Enceinte Bluetooth,Audio,-24.82,3,Sainte Margueritedan,Boutique,-74.46
+1373,2025-08-25,91,Clavier,Audio,-17.18,1,Adam,Web,-17.18
+1379,2025-01-12,301,Clavier,Informatique,-16.58,3,,Web,-49.74
+1401,2025-09-03,218,Enceinte Bluetooth,Audio,-163.52,5,Albertnec,Marketplace,-817.6
+1405,2025-08-15,204,Enceinte Bluetooth,Accessoire,-77.65,2,Bonneau,Web,-155.3
+1419,2025-03-15,98,Webcam HD,Accessoire,-19.07,1,BuissonVille,Web,-19.07
+1423,2025-02-02,157,Écran 24 pouces,Accessoire,-15.33,3,Mahe,Web,-45.99
+1436,2025-05-10,351,Disque SSD,Informatqiue,-160.27,1,Saint Patricia,Web,-160.27
+1437,2024-11-19,216,Enceinte Bluetooth,Informatique,-217.96,1,Sainte Corinnenec,Marketplace,-217.96
+1445,2025-07-19,458,Câble USB-C,Audio,120.08,-1,Pariss,Web,-120.08
+1448,2024-12-03,57,Webcam HD,Informatique,136.49,-1,Lopes-sur-Léger,Boutique,-136.49
+1449,2025-05-30,463,Enceinte Bluetooth,Informatique,-177.35,2,Saint ThibaultVille,Web,-354.7
+1461,2025-06-13,209,Webcam HD,Audio,-15.72,5,Regnier-sur-Nicolas,Web,-78.6
+1468,2025-10-17,103,Webcam HD,Audio,-15.82,2,Sainte Élisabeth-la-Forêt,Web,-31.64
+1476,2025-02-14,47,Écran 24 pouces,Accessoire,-15.37,2,Pariss,Boutique,-30.74
+1482,2025-03-25,388,Clavier,Informatique,-64.09,5,,Boutique,-320.45
+1486,2025-04-17,74,Webcam HD,Accessoire,-16.54,3,Evrardnec,Web,-49.62
+1491,2025-06-28,279,Clavier,Accessoire,-17.23,2,Fournier-sur-Barbe,Boutique,-34.46
+1495,2025-07-27,277,Enceinte Bluetooth,Informatique,-181.8,2,Lagarde,Boutique,-363.6
+1498,2025-10-25,362,Enceinte Bluetooth,Informatique,-31.92,2,Sainte Caroline-la-Forêt,Web,-63.84
+1499,2025-07-31,268,Disque SSD,Audio,-169.47,1,,Web,-169.47
+1500,2025-10-21,199,Casque Bluetooth,Informatique,202.5,-1,Pelletier-la-Forêt,Web,-202.5
+1509,2024-11-18,98,Webcam HD,Informatique,-16.87,1,Saint HenrietteVille,Boutique,-16.87
+1514,2024-11-20,427,Disque SSD,Audio,-173.22,1,Rivière,Web,-173.22
+1532,2025-05-18,14,Souris,Audio,142.83,-1,Coste,Boutique,-142.83
+1543,2025-06-23,443,Enceinte Bluetooth,Informatique,74.41,-1,BuissonVille,Web,-74.41
+1549,2024-11-02,48,Clavier,Informatique,-18.8,3,,Boutique,-56.4
+1551,2024-10-30,302,Disque SSD,Informatique,-180.48,2,,Web,-360.96
+1564,2025-09-19,461,Clavier,Audio,-79.3,2,LégerBourg,Web,-158.6
+1574,2025-07-09,90,Enceinte Bluetooth,Audio,-182.44,5,Noëldan,Boutique,-912.2
+1584,2025-03-28,391,Écran 24 pouces,Informatique,-20.93,2,Prévost,Boutique,-41.86
+1591,2024-11-27,97,Enceinte Bluetooth,Informatique,22.1,-1,Sainte Thibaultdan,Web,-22.1
+1608,2025-10-14,118,Écran 24 pouces,Audio,-18.27,2,Humbert,Boutique,-36.54
+1611,2025-08-05,317,Enceinte Bluetooth,Informatique,-158.95,1,,Web,-158.95
+1612,2025-03-23,87,Écran 24 pouces,Informatique,-15.59,2,Berger,Boutique,-31.18
+1614,2025-05-23,299,Clavier,Audio,-85.67,2,Sanchez,Web,-171.34
+1631,2025-05-02,19,Écran 24 pouces,Informatique,112.02,-1,Pichon-sur-Mer,Web,-112.02
+1643,2025-04-11,422,Enceinte Bluetooth,Informatique,-139.62,3,,Web,-418.86
+1645,2025-07-31,39,Clavier,Accessoire,-84.69,3,Pereira,Boutique,-254.07
+1669,2025-08-04,271,Enceinte Bluetooth,Informatique,-180.03,1,Rémy-la-Forêt,Boutique,-180.03
+1672,2025-04-19,146,Enceinte Bluetooth,Informatique,-24.2,1,Saint Patricia,Web,-24.2
+1683,2025-06-11,263,Enceinte Bluetooth,Audio,-32.8,1,Hoarau-sur-Mer,Web,-32.8
+1726,2025-03-05,87,Enceinte Bluetooth,Informatique,-163.12,2,Mary,Marketplace,-326.24
+1729,2024-11-12,187,Enceinte Bluetooth,Audio,-159.36,1,BuissonVille,Marketplace,-159.36
+1742,2025-04-08,282,Webcam HD,Audio,-14.45,2,,Boutique,-28.9
+1752,2025-05-14,370,Enceinte Bluetooth,Accessoire,-159.93,2,Dijoux-la-Forêt,Boutique,-319.86
+1770,2025-02-13,346,Enceinte Bluetooth,Informatique,-187.3,3,,Web,-561.9
+1772,2024-11-14,258,Webcam HD,Informatique,101.36,-1,,Web,-101.36
+1773,2025-05-12,15,Souris,Accessoire,-114.85,2,Sainte Isaac-les-Bains,Web,-229.7
+1788,2025-08-26,438,Disque SSD,Informatique,-163.47,2,Becker,Web,-326.94
+1791,2025-04-17,307,Enceinte Bluetooth,Accessoire,-141.53,5,Augernec,Marketplace,-707.65
+1798,2025-08-27,177,Clavier,Informatique,-19.79,3,Pariss,Web,-59.37
+1802,2025-06-11,222,Clavier,Informatique,-15.38,1,Lévy,Web,-15.38
+1809,2025-03-19,57,Écran 24 pouces,Informatique,105.42,-1,Sauvage,Marketplace,-105.42
+1825,2025-01-23,45,Écran 24 pouces,Accessoire,-17.45,1,,Web,-17.45
+1832,2024-11-08,164,Enceinte Bluetooth,Audio,-140.07,1,MercierBourg,Web,-140.07
+1837,2025-09-07,228,Webcam HD,Informatqiue,-13.87,10,Adam-sur-Benoit,Boutique,-138.7
+1840,2025-09-07,300,Clavier,Audio,-19.55,1,Marques,Web,-19.55
+1843,2025-01-30,310,Enceinte Bluetooth,Informatique,-91.36,10,GermainVille,Boutique,-913.6
+1861,2025-03-05,161,Clavier,Informatique,-21.21,3,,Boutique,-63.63
+1863,2025-04-15,186,Webcam HD,Informatique,-14.62,1,Saint Aimé-sur-Mer,Web,-14.62
+1877,2025-04-18,32,Disque SSD,Informatique,155.13,-1,,Web,-155.13
+1882,2025-03-19,449,Clavier,Audio,-70.42,2,Saint Lucie,Web,-140.84
+1883,2025-08-21,254,Écran 24 pouces,Informatique,-20.87,2,,Boutique,-41.74
+1886,2024-11-04,202,Clavier,Informatique,-76.8,2,Charpentier,Web,-153.6
+1890,2025-10-15,167,Clavier,Informatqiue,-18.17,1,Michaud,Boutique,-18.17
+1900,2025-05-09,84,Clavier,Informatique,-16.75,2,Girard,Web,-33.5
+1904,2024-11-28,167,Clavier,Informatique,-70.91,1,Dupuy-la-Forêt,Web,-70.91
+1934,2025-08-26,221,Clavier,Accessoire,-66.65,2,Grondin-la-Forêt,Web,-133.3
+1937,2025-09-11,439,Enceinte Bluetooth,Audio,-195.35,2,Vaillantdan,Boutique,-390.7
+1944,2025-06-02,467,Écran 24 pouces,Informatique,60.87,-1,Charpentier,Boutique,-60.87
+1949,2025-06-17,216,Disque SSD,Informatique,-152.28,1,,Web,-152.28
+1958,2024-11-02,461,Écran 24 pouces,Informatique,-21.78,2,Blanc-sur-Mer,Web,-43.56
+1968,2025-03-24,37,Enceinte Bluetooth,Informatique,-110.29,10,Hamondan,Web,-1102.9
+1985,2025-06-27,240,Webcam HD,Informatique,-14.16,3,Ollivier,Web,-42.48
+1994,2025-05-27,224,Clavier,Informatique,102.29,-1,Roche-sur-Dos Santos,Web,-102.29
+1996,2025-06-13,270,Écran 24 pouces,Informatique,-15.7,2,Hubert-la-Forêt,Web,-31.4
+1997,2025-01-09,314,Souris,Informatique,-113.35,5,Coste-les-Bains,Web,-566.75
+2000,2025-08-21,102,Webcam HD,Informatique,84.04,-1,ChauveauVille,Web,-84.04
