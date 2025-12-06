@@ -18,6 +18,7 @@ data_management/
 - [x] Marketplace_Import_Mars2025.csv
 - [x] Ventes_Q1_2025.csv
 - [x] Croiser les données entre les 4 tables pour identifier les problèmes de connexion
+- [x] Finaliser le rapport d'audit
 
 ## Installation
 
@@ -38,6 +39,9 @@ data_management/
 3. Installer les dépendances
 ```bash
    pip install -r requirements.txt
+
+  # pour lire le PDF depuis VS-Code
+   code --install-extension tomoki1207.pdf
 ```
 
 4. Lancer Jupyter
